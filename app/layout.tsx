@@ -4,7 +4,7 @@ import Header from "../components/layout/Header";
 import Footer from "../components/layout/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://eklezia-demo.vercel.app"),
+  metadataBase: new URL("https://eklezia-church-website.vercel.app"),
   title: {
     default: "Eklezia | Église, foi, communauté et solidarité",
     template: "%s | Eklezia",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "fr_FR",
-    url: "https://eklezia-demo.vercel.app",
+    url: "https://eklezia-church-website.vercel.app",
     siteName: "Eklezia",
     title: "Eklezia | Église, foi, communauté et solidarité",
     description:

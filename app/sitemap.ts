@@ -3,7 +3,7 @@ import { sermons } from "../data/sermons";
 import { announcements } from "../data/announcements";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://eklezia-demo.vercel.app";
+  const baseUrl = "https://eklezia-church-website.vercel.app";
 
   const staticPages = [
     "",
